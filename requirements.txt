@@ -5,3 +5,6 @@ scipy==1.15.2
 statsmodels==0.14.4
 streamlit==1.44.1
 tensorflow==2.19.0
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.0
